@@ -1,3 +1,3 @@
 <?php
-	echo "Goodbye my friend"; 
+	echo "<h2>Goodbye my friend</h2>"; 
 ?>
